@@ -36,4 +36,8 @@
 
 假如文字能够传承，互联网带有记忆，也许我能为她在这里写一点点她的故事。
 
+<img src="./assets/chengdu-market-1910.jpg" alt="chengdu market in 1910s" width="800"/>
+
+书里一张插图，成都1910年代，青龙场赶场，市场上摆满了白萝卜。
+
 05/10/2020 in Wellington
